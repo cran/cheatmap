@@ -1,0 +1,11 @@
+34702492ec9c5b34561b4c4bc7aadae4 *DESCRIPTION
+21359659c808a5cfdc27e6997e79ec90 *NAMESPACE
+d14dae0336c58cab657be8cdbf1cb407 *R/cfunction.r
+5bbab4646af343691efdd3e645a17692 *R/cheatmap.r
+13ccdc4f7cbea6605e38bc43b699b264 *R/global.r
+03b794ff54c3125448acc7d2c082ca77 *R/rankMatrix.r
+381ae1e7e0dc3a9fd6278170c700f268 *inst/doc/cheatmap.pdf
+4d9783c78c70b0e7bfd642a9cfb9861c *inst/doc/cheatmap.rnw
+8843239ff101dd45aee845bae531cb47 *inst/doc/figure.pdf
+93d762156814628ff0ff15e37ddf08ad *man/cheatmap-package.Rd
+876b940064ec647b3381cb49a0e3c20f *man/cheatmap.Rd
